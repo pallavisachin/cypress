@@ -1,0 +1,32 @@
+[{
+        "firstname":"pallavi",
+        "lastname":"ransing",
+        "email": "pal@123gmail.com",
+        "message":"fixture file use to test the data"
+
+
+    },
+    {
+        "firstname":"sachin",
+        "lastname":"bhand",
+        "email": "sachin@123gmail.com",
+        "message":"fixture file use to test the data"
+
+
+    },
+    {
+        "firstname":"pallavi",
+        "lastname":"bhand",
+        "email": "sachinpallavi@123gmail.com",
+        "message":"fixture file use to test the data"
+
+
+    },
+    {
+        "firstname":"sanchit",
+        "lastname":"bhand",
+        "email": "sachit@123gmail.com",
+        "message":"fixture file use to test the data"
+
+
+    }]
